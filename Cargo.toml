@@ -1,0 +1,16 @@
+[package]
+name = "libax"
+version = "0.1.0"
+edition = "2021"
+authors = ["cbax <cbax@doslabelectronics.com>"]
+description = "Helper functions for cbax projects"
+readme = "README.md"
+homepage = "https://cbax.dev/libax"
+repository = "https://github.com/LogoiLab/libax"
+license = "GPL-3.0-or-later"
+keywords = ["helper", "auxilary"]
+publish = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
